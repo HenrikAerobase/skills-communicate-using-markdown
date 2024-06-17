@@ -165,3 +165,7 @@ C
       RETURN
       END
 ´´´ 
+
+``` javascript
+var myVar = "Hello, world!";
+```
